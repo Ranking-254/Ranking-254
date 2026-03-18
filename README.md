@@ -1,11 +1,11 @@
-## Hi there 👋 I'm [Your Name]
+## Hi there 👋 I'm Pattin Mugambi
 
 * 🔭 **I’m currently working on:** Building scalable fullstack applications and personal projects.
 * 🌱 **I’m currently learning:** Advanced system architecture and optimizing MongoDB performance.
 * 👯 **I’m looking to collaborate on:** Open-source projects involving React or Node.js.
 * 🤔 **I’m looking for help with:** Mastering CI/CD pipelines and advanced UI/UX principles.
 * 💬 **Ask me about:** Fullstack development, the MERN stack, or transitioning from PHP to modern JS.
-* 📫 **How to reach me:** pattinnjue@gmail.com or '[LinkedIn Link]'
+* 📫 **How to reach me:** pattinnjue@gmail.com
 * 😄 **Pronouns:** He/Him 
 * ⚡ **Fun fact:** I spend as much time naming my variables as I do writing the actual logic!
 
